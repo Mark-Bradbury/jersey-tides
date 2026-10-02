@@ -8,113 +8,84 @@ X-WR-TIMEZONE:Europe/Jersey
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:tideline-sthelier-20261002T093700Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261002T093713Z
-DTEND:20261002T100713Z
-LOCATION:St Helier\, Jersey
-TRANSP:TRANSPARENT
-SUMMARY:▲ High tide 10:37 (9.9 m) · surf 07:37 · 1.3 m glassy · Wate
- rsplash
-DESCRIPTION:HIGH TIDE 10:37\, 9.9 m above chart datum (St Helier)\n\nSURF
- : 07:37–10:37 on the flooding tide\nSwell: 1.3 m at 9 s from the W\nSur
- f height (estimate): about chest high\nWind: 4 mph from the SSE\, gusting
-  8 mph (cross-offshore at the pick)\nConditions: Glassy\nBest spot in Jer
- sey: Watersplash (St Ouen's Bay)\nAlso considered: Les Brayes (cross-offs
- hore)\; Petit Port (cross-offshore)\nSea temperature: 18.8°C\n\nSAIL: 07
- :37–10:37 on the flood or 10:37–13:37 on the ebb\n\nWEATHER at 07:37:
-  partly cloudy\, 13°C\, 0% chance of rain\nLIGHT: daylight (sunrise 07:1
- 0\, sunset 18:48)\nTIDES: Mid-cycle between springs and neaps.\n\nUpdated
-  2 Oct\, 10:31. Tides: St Helier harmonic prediction (TICON-4). Weather\,
-  swell and sea temperature: Open-Meteo. Not for navigation.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Surf window opens now. High tide 10:37 (9.9 m) · surf 07:37 
- · 1.3 m glassy · Watersplash
-TRIGGER:-PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:tideline-sthelier-20261002T162200Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261002T162136Z
 DTEND:20261002T165136Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 17:21 (3.0 m)
 DESCRIPTION:LOW TIDE 17:21\, 3.0 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261002T220300Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261002T220242Z
-DTEND:20261002T223242Z
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261002T220241Z
+DTEND:20261002T223241Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
-SUMMARY:▲ High tide 23:02 (9.4 m) · surf 20:02 · 1.1 m clean · Water
+SUMMARY:▲ High tide 23:02 (9.4 m) · surf 20:02 · 1.0 m clean · Water
  splash
 DESCRIPTION:HIGH TIDE 23:02\, 9.4 m above chart datum (St Helier)\n\nSURF
- : 20:02–23:02 on the flooding tide\nSwell: 1.1 m at 8 s from the W\nSur
+ : 20:02–23:02 on the flooding tide\nSwell: 1.0 m at 8 s from the W\nSur
  f height (estimate): waist to chest high\nWind: 8 mph from the ENE\, gust
- ing 13 mph (cross-offshore at the pick)\nConditions: Clean but short-peri
+ ing 14 mph (cross-offshore at the pick)\nConditions: Clean but short-peri
  od\, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAls
  o considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\n
  Sea temperature: 18.9°C\n\nSAIL: 20:02–23:02 on the flood or 23:02–0
  2:02 on the ebb\n\nWEATHER at 20:02: overcast\, 16°C\, 0% chance of rain
  \nLIGHT: after dark (sunrise 07:10\, sunset 18:48)\nTIDES: Mid-cycle betw
- een springs and neaps.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmoni
+ een springs and neaps.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmoni
  c prediction (TICON-4). Weather\, swell and sea temperature: Open-Meteo. 
  Not for navigation.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 23:02 (9.4 m) · surf 20:02 
- · 1.1 m clean · Watersplash
+ · 1.0 m clean · Watersplash
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261003T044100Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261003T044049Z
 DTEND:20261003T051049Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 05:40 (3.6 m)
 DESCRIPTION:LOW TIDE 05:40\, 3.6 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261003T102800Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261003T102805Z
-DTEND:20261003T105805Z
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261003T102804Z
+DTEND:20261003T105804Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▲ High tide 11:28 (9.1 m) · surf 08:28 · 1.0 m clean · Water
  splash
 DESCRIPTION:HIGH TIDE 11:28\, 9.1 m above chart datum (St Helier)\n\nSURF
  : 08:28–11:28 on the flooding tide\nSwell: 1.0 m at 8 s from the W\nSur
- f height (estimate): waist to chest high\nWind: 5 mph from the NE\, gusti
- ng 9 mph (cross-offshore at the pick)\nConditions: Clean but short-period
- \, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso 
- considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nSe
- a temperature: 18.9°C\n\nSAIL: 08:28–11:28 on the flood or 11:28–14:
- 28 on the ebb\n\nWEATHER at 08:28: overcast\, 15°C\, 0% chance of rain\n
- LIGHT: daylight (sunrise 07:12\, sunset 18:46)\nTIDES: Neap tides\, small
-  range.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic prediction (T
- ICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigat
- ion.
+ f height (estimate): waist to chest high\nWind: 7 mph from the NE\, gusti
+ ng 12 mph (cross-offshore at the pick)\nConditions: Clean but short-perio
+ d\, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso
+  considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nS
+ ea temperature: 18.8°C\n\nSAIL: 08:28–11:28 on the flood or 11:28–14
+ :28 on the ebb\n\nWEATHER at 08:28: overcast\, 15°C\, 0% chance of rain\
+ nLIGHT: daylight (sunrise 07:12\, sunset 18:46)\nTIDES: Neap tides\, smal
+ l range.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction (
+ TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for naviga
+ tion.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 11:28 (9.1 m) · surf 08:28 
@@ -124,22 +95,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261003T172100Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261003T172031Z
-DTEND:20261003T175031Z
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261003T172032Z
+DTEND:20261003T175032Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 18:20 (3.7 m)
 DESCRIPTION:LOW TIDE 18:20\, 3.7 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261003T230400Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261003T230337Z
 DTEND:20261003T233337Z
 LOCATION:St Helier\, Jersey
@@ -148,16 +119,16 @@ SUMMARY:▲ High tide 00:03 (8.5 m) · surf 21:03 Sat · 0.8 m clean · W
  atersplash
 DESCRIPTION:HIGH TIDE 00:03\, 8.5 m above chart datum (St Helier)\n\nSURF
  : 21:03–00:03 on the flooding tide\nSwell: 0.8 m at 7 s from the W\nSur
- f height (estimate): about waist high\nWind: 7 mph from the NE\, gusting 
- 10 mph (cross-offshore at the pick)\nConditions: Clean but short-period\,
+ f height (estimate): about waist high\nWind: 8 mph from the NE\, gusting 
+ 14 mph (cross-offshore at the pick)\nConditions: Clean but short-period\,
   so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso co
  nsidered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nSea 
- temperature: 18.9°C\n\nSAIL: 21:03–00:03 on the flood or 00:03–03:03
-  on the ebb\n\nWEATHER at 21:03: clear\, 15°C\, 0% chance of rain\nLIGHT
- : after dark (sunrise 07:12\, sunset 18:46)\nTIDES: Neap tides\, small ra
- nge.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic prediction (TICO
- N-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigation
- .
+ temperature: 18.8°C\n\nSAIL: 21:03–00:03 on the flood or 00:03–03:03
+  on the ebb\n\nWEATHER at 21:03: overcast\, 15°C\, 0% chance of rain\nLI
+ GHT: after dark (sunrise 07:12\, sunset 18:46)\nTIDES: Neap tides\, small
+  range.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction (T
+ ICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigat
+ ion.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 00:03 (8.5 m) · surf 21:03 
@@ -167,22 +138,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261004T055200Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261004T055206Z
 DTEND:20261004T062206Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 06:52 (4.3 m)
 DESCRIPTION:LOW TIDE 06:52\, 4.3 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261004T114400Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261004T114349Z
 DTEND:20261004T121349Z
 LOCATION:St Helier\, Jersey
@@ -191,16 +162,16 @@ SUMMARY:▲ High tide 12:43 (8.4 m) · surf 09:43 · 0.6 m clean · Water
  splash
 DESCRIPTION:HIGH TIDE 12:43\, 8.4 m above chart datum (St Helier)\n\nSURF
  : 09:43–12:43 on the flooding tide\nSwell: 0.6 m at 7 s from the W\nSur
- f height (estimate): knee to waist high\nWind: 9 mph from the NE\, gustin
- g 15 mph (cross-offshore at the pick)\nConditions: Clean but short-period
- \, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso 
- considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nSe
- a temperature: 19.0°C\n\nSAIL: 09:43–12:43 on the flood or 12:43–15:
- 43 on the ebb\n\nWEATHER at 09:43: clear\, 17°C\, 0% chance of rain\nLIG
- HT: daylight (sunrise 07:13\, sunset 18:43)\nTIDES: Neap tides\, small ra
- nge.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic prediction (TICO
- N-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigation
- .
+ f height (estimate): knee to waist high\nWind: 7 mph from the NNE\, gusti
+ ng 12 mph (cross-offshore at the pick)\nConditions: Clean but short-perio
+ d\, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso
+  considered: Les Brayes (cross-offshore)\; Petit Port (cross-shore)\nSea 
+ temperature: 18.9°C\n\nSAIL: 09:43–12:43 on the flood or 12:43–15:43
+  on the ebb\n\nWEATHER at 09:43: mostly clear\, 17°C\, 0% chance of rain
+ \nLIGHT: daylight (sunrise 07:13\, sunset 18:43)\nTIDES: Neap tides\, sma
+ ll range.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction 
+ (TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for navig
+ ation.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 12:43 (8.4 m) · surf 09:43 
@@ -210,22 +181,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261004T184800Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261004T184825Z
 DTEND:20261004T191825Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 19:48 (4.1 m)
 DESCRIPTION:LOW TIDE 19:48\, 4.1 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261005T003900Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261005T003836Z
 DTEND:20261005T010836Z
 LOCATION:St Helier\, Jersey
@@ -234,16 +205,16 @@ SUMMARY:▲ High tide 01:38 (8.0 m) · surf 22:38 Sun · 0.5 m clean · W
  atersplash
 DESCRIPTION:HIGH TIDE 01:38\, 8.0 m above chart datum (St Helier)\n\nSURF
  : 22:38–01:38 on the flooding tide\nSwell: 0.5 m at 7 s from the W\nSur
- f height (estimate): ankle to knee high\nWind: 9 mph from the NE\, gustin
- g 13 mph (cross-offshore at the pick)\nConditions: Clean but short-period
- \, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso 
- considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nSe
- a temperature: 18.9°C\n\nSAIL: 22:38–01:38 on the flood or 01:38–04:
- 38 on the ebb\n\nWEATHER at 22:38: clear\, 16°C\, 0% chance of rain\nLIG
- HT: after dark (sunrise 07:15\, sunset 18:41)\nTIDES: Neap tides\, small 
- range.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic prediction (TI
- CON-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigati
- on.
+ f height (estimate): ankle to knee high\nWind: 6 mph from the NNE\, gusti
+ ng 11 mph (cross-offshore at the pick)\nConditions: Clean but short-perio
+ d\, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso
+  considered: Les Brayes (cross-offshore)\; Petit Port (cross-shore)\nSea 
+ temperature: 18.8°C\n\nSAIL: 22:38–01:38 on the flood or 01:38–04:38
+  on the ebb\n\nWEATHER at 22:38: overcast\, 16°C\, 0% chance of rain\nLI
+ GHT: after dark (sunrise 07:15\, sunset 18:41)\nTIDES: Neap tides\, small
+  range.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction (T
+ ICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigat
+ ion.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 01:38 (8.0 m) · surf 22:38 
@@ -253,151 +224,150 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261005T074000Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261005T073958Z
 DTEND:20261005T080958Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 08:39 (4.5 m)
 DESCRIPTION:LOW TIDE 08:39\, 4.5 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261005T133300Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261005T133257Z
 DTEND:20261005T140257Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
-SUMMARY:▲ High tide 14:32 (8.2 m) · surf 11:32 · 0.4 m clean · Water
- splash
+SUMMARY:▲ High tide 14:32 (8.2 m) · surf 11:32 · 0.3 m clean · Les B
+ rayes
 DESCRIPTION:HIGH TIDE 14:32\, 8.2 m above chart datum (St Helier)\n\nSURF
  : 11:32–14:32 on the flooding tide\nSwell: 0.4 m at 6 s from the W\nSur
- f height (estimate): ankle to knee high\nWind: 8 mph from the NE\, gustin
- g 14 mph (cross-offshore at the pick)\nConditions: Clean but short-period
- \, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso 
- considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nSe
- a temperature: 18.9°C\n\nSAIL: 11:32–14:32 on the flood or 14:32–17:
- 32 on the ebb\n\nWEATHER at 11:32: partly cloudy\, 16°C\, 0% chance of r
- ain\nLIGHT: daylight (sunrise 07:15\, sunset 18:41)\nTIDES: Neap tides\, 
- small range.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic predicti
- on (TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for na
- vigation.
+ f height (estimate): ankle to knee high\nWind: 5 mph from the NNE\, gusti
+ ng 10 mph (cross-offshore at the pick)\nConditions: Clean but short-perio
+ d\, so a bit weak\nBest spot in Jersey: Les Brayes (St Ouen's Bay)\nAlso 
+ considered: Watersplash (cross-shore)\; Petit Port (cross-shore)\nSea tem
+ perature: 18.9°C\n\nSAIL: 11:32–14:32 on the flood or 14:32–17:32 on
+  the ebb\n\nWEATHER at 11:32: partly cloudy\, 18°C\, 0% chance of rain\n
+ LIGHT: daylight (sunrise 07:15\, sunset 18:41)\nTIDES: Neap tides\, small
+  range.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction (T
+ ICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigat
+ ion.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 14:32 (8.2 m) · surf 11:32 
- · 0.4 m clean · Watersplash
+ · 0.3 m clean · Les Brayes
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261005T203100Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261005T203059Z
 DTEND:20261005T210059Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 21:30 (3.9 m)
 DESCRIPTION:LOW TIDE 21:30\, 3.9 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261006T022800Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261006T022821Z
 DTEND:20261006T025821Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
-SUMMARY:▲ High tide 03:28 (8.2 m) · surf 00:28 · 0.4 m clean · Water
- splash
+SUMMARY:▲ High tide 03:28 (8.2 m) · surf 00:28 · 0.3 m clean · Les B
+ rayes
 DESCRIPTION:HIGH TIDE 03:28\, 8.2 m above chart datum (St Helier)\n\nSURF
- : 00:28–03:28 on the flooding tide\nSwell: 0.4 m at 6 s from the W\nSur
- f height (estimate): ankle to knee high\nWind: 11 mph from the NE\, gusti
- ng 15 mph (cross-offshore at the pick)\nConditions: Clean but short-perio
- d\, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso
-  considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nS
- ea temperature: 18.8°C\n\nSAIL: 00:28–03:28 on the flood or 03:28–06
- :28 on the ebb\n\nWEATHER at 00:28: partly cloudy\, 16°C\, 0% chance of 
- rain\nLIGHT: after dark (sunrise 07:16\, sunset 18:39)\nTIDES: Neap tides
- \, small range.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic predi
- ction (TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for
-  navigation.
+ : 00:28–03:28 on the flooding tide\nSwell: 0.3 m at 6 s from the W\nSur
+ f height (estimate): ankle to knee high\nWind: 11 mph from the ENE\, gust
+ ing 15 mph (offshore at the pick)\nConditions: Clean but short-period\, s
+ o a bit weak\nBest spot in Jersey: Les Brayes (St Ouen's Bay)\nAlso consi
+ dered: Watersplash (cross-offshore)\; Petit Port (cross-offshore)\nSea te
+ mperature: 18.8°C\n\nSAIL: 00:28–03:28 on the flood or 03:28–06:28 o
+ n the ebb\n\nWEATHER at 00:28: clear\, 16°C\, 0% chance of rain\nLIGHT: 
+ after dark (sunrise 07:16\, sunset 18:39)\nTIDES: Neap tides\, small rang
+ e.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction (TICON-
+ 4). Weather\, swell and sea temperature: Open-Meteo. Not for navigation.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 03:28 (8.2 m) · surf 00:28 
- · 0.4 m clean · Watersplash
+ · 0.3 m clean · Les Brayes
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261006T091500Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261006T091510Z
-DTEND:20261006T094510Z
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261006T091509Z
+DTEND:20261006T094509Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 10:15 (3.9 m)
 DESCRIPTION:LOW TIDE 10:15\, 3.9 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261006T150300Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261006T150258Z
 DTEND:20261006T153258Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
-SUMMARY:▲ High tide 16:02 (8.8 m) · surf 13:02 · 0.4 m clean · Water
+SUMMARY:▲ High tide 16:02 (8.8 m) · surf 13:02 · 0.3 m clean · Water
  splash
 DESCRIPTION:HIGH TIDE 16:02\, 8.8 m above chart datum (St Helier)\n\nSURF
- : 13:02–16:02 on the flooding tide\nSwell: 0.4 m at 7 s from the W\nSur
- f height (estimate): ankle to knee high\nWind: 8 mph from the NE\, gustin
- g 18 mph (cross-offshore at the pick)\nConditions: Clean but short-period
- \, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso 
- considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nSe
- a temperature: 18.9°C\n\nSAIL: 13:02–16:02 on the flood or 16:02–19:
- 02 on the ebb\n\nWEATHER at 13:02: overcast\, 20°C\, 13% chance of rain\
- nLIGHT: daylight (sunrise 07:16\, sunset 18:39)\nTIDES: Neap tides\, smal
- l range.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic prediction (
- TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for naviga
- tion.
+ : 13:02–16:02 on the flooding tide\nSwell: 0.3 m at 6 s from the W\nSur
+ f height (estimate): ankle to knee high\nWind: 7 mph from the NNE\, gusti
+ ng 17 mph (cross-offshore at the pick)\nConditions: Clean but short-perio
+ d\, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso
+  considered: Les Brayes (cross-offshore)\; Petit Port (cross-shore)\nSea 
+ temperature: 18.9°C\n\nSAIL: 13:02–16:02 on the flood or 16:02–19:02
+  on the ebb\n\nWEATHER at 13:02: partly cloudy\, 20°C\, 13% chance of ra
+ in\nLIGHT: daylight (sunrise 07:16\, sunset 18:39)\nTIDES: Neap tides\, s
+ mall range.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic predictio
+ n (TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for nav
+ igation.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 16:02 (8.8 m) · surf 13:02 
- · 0.4 m clean · Watersplash
+ · 0.3 m clean · Watersplash
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261006T214900Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261006T214848Z
 DTEND:20261006T221848Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 22:48 (3.1 m)
 DESCRIPTION:LOW TIDE 22:48\, 3.1 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261007T034200Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261007T034200Z
 DTEND:20261007T041200Z
 LOCATION:St Helier\, Jersey
@@ -405,17 +375,17 @@ TRANSP:TRANSPARENT
 SUMMARY:▲ High tide 04:42 (9.0 m) · surf 01:42 · 0.4 m clean · Water
  splash
 DESCRIPTION:HIGH TIDE 04:42\, 9.0 m above chart datum (St Helier)\n\nSURF
- : 01:42–04:42 on the flooding tide\nSwell: 0.4 m at 7 s from the WNW\nS
- urf height (estimate): ankle to knee high\nWind: 12 mph from the NE\, gus
- ting 20 mph (cross-offshore at the pick)\nConditions: Clean but short-per
- iod\, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAl
- so considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\
- nSea temperature: 18.8°C\n\nSAIL: 01:42–04:42 on the flood or 04:42–
- 07:42 on the ebb\n\nWEATHER at 01:42: showers\, 16°C\, 10% chance of rai
- n\nLIGHT: after dark (sunrise 07:18\, sunset 18:37)\nTIDES: Mid-cycle bet
- ween springs and neaps.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmon
- ic prediction (TICON-4). Weather\, swell and sea temperature: Open-Meteo.
-  Not for navigation.
+ : 01:42–04:42 on the flooding tide\nSwell: 0.4 m at 7 s from the W\nSur
+ f height (estimate): ankle to knee high\nWind: 12 mph from the NE\, gusti
+ ng 21 mph (cross-offshore at the pick)\nConditions: Clean but short-perio
+ d\, so a bit weak\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso
+  considered: Les Brayes (cross-offshore)\; Petit Port (cross-offshore)\nS
+ ea temperature: 18.8°C\n\nSAIL: 01:42–04:42 on the flood or 04:42–07
+ :42 on the ebb\n\nWEATHER at 01:42: overcast\, 16°C\, 10% chance of rain
+ \nLIGHT: after dark (sunrise 07:18\, sunset 18:37)\nTIDES: Mid-cycle betw
+ een springs and neaps.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmoni
+ c prediction (TICON-4). Weather\, swell and sea temperature: Open-Meteo. 
+ Not for navigation.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 04:42 (9.0 m) · surf 01:42 
@@ -425,22 +395,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261007T101900Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261007T101843Z
-DTEND:20261007T104843Z
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261007T101844Z
+DTEND:20261007T104844Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 11:18 (3.1 m)
 DESCRIPTION:LOW TIDE 11:18\, 3.1 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261007T160400Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261007T160422Z
 DTEND:20261007T163422Z
 LOCATION:St Helier\, Jersey
@@ -448,17 +418,16 @@ TRANSP:TRANSPARENT
 SUMMARY:▲ High tide 17:04 (9.7 m) · surf 14:04 · 0.4 m bumpy · Water
  splash
 DESCRIPTION:HIGH TIDE 17:04\, 9.7 m above chart datum (St Helier)\n\nSURF
- : 14:04–17:04 on the flooding tide\nSwell: 0.4 m at 7 s from the WNW\nS
- urf height (estimate): ankle to knee high\nWind: 13 mph from the N\, gust
- ing 26 mph (cross-shore at the pick)\nConditions: Bumpy and a little text
- ured\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso considered: 
- Les Brayes (cross-shore)\; St Brelade's Bay (offshore)\nSea temperature: 
- 18.7°C\n\nSAIL: 14:04–17:04 on the flood or 17:04–20:04 on the ebb\n
- \nWEATHER at 14:04: overcast\, 18°C\, 45% chance of rain\nLIGHT: dayligh
- t (sunrise 07:18\, sunset 18:37)\nTIDES: Mid-cycle between springs and ne
- aps.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic prediction (TICO
- N-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigation
- .
+ : 14:04–17:04 on the flooding tide\nSwell: 0.4 m at 7 s from the W\nSur
+ f height (estimate): ankle to knee high\nWind: 15 mph from the N\, gustin
+ g 28 mph (cross-shore at the pick)\nConditions: Bumpy and a little textur
+ ed\nBest spot in Jersey: Watersplash (St Ouen's Bay)\nAlso considered: Le
+ s Brayes (cross-shore)\; St Brelade's Bay (offshore)\nSea temperature: 18
+ .9°C\n\nSAIL: 14:04–17:04 on the flood or 17:04–20:04 on the ebb\n\n
+ WEATHER at 14:04: drizzle\, 16°C\, 45% chance of rain\nLIGHT: daylight (
+ sunrise 07:18\, sunset 18:37)\nTIDES: Mid-cycle between springs and neaps
+ .\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction (TICON-4
+ ). Weather\, swell and sea temperature: Open-Meteo. Not for navigation.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 17:04 (9.7 m) · surf 14:04 
@@ -468,82 +437,82 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261007T224500Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261007T224439Z
 DTEND:20261007T231439Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 23:44 (2.3 m)
 DESCRIPTION:LOW TIDE 23:44\, 2.3 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261008T043400Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261008T043349Z
 DTEND:20261008T050349Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
-SUMMARY:▲ High tide 05:33 (9.9 m) · surf 02:33 · 0.3 m bumpy · Les B
+SUMMARY:▲ High tide 05:33 (9.9 m) · surf 02:33 · 0.4 m bumpy · Les B
  rayes
 DESCRIPTION:HIGH TIDE 05:33\, 9.9 m above chart datum (St Helier)\n\nSURF
- : 02:33–05:33 on the flooding tide\nSwell: 0.4 m at 5 s from the WNW\nS
- urf height (estimate): ankle to knee high\nWind: 19 mph from the N\, gust
- ing 38 mph (cross-shore at the pick)\nConditions: Bumpy and a little text
+ : 02:33–05:33 on the flooding tide\nSwell: 0.5 m at 5 s from the WNW\nS
+ urf height (estimate): ankle to knee high\nWind: 21 mph from the N\, gust
+ ing 40 mph (cross-shore at the pick)\nConditions: Bumpy and a little text
  ured\nBest spot in Jersey: Les Brayes (St Ouen's Bay)\nAlso considered: W
  atersplash (cross-onshore)\; St Brelade's Bay (offshore)\nSea temperature
  : 18.6°C\n\nSAIL: 02:33–05:33 on the flood or 05:33–08:33 on the ebb
- \n\nWEATHER at 02:33: mostly clear\, 14°C\, 23% chance of rain\nLIGHT: a
- fter dark (sunrise 07:19\, sunset 18:35)\nTIDES: Mid-cycle between spring
- s and neaps.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic predicti
- on (TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for na
- vigation.
+ \n\nWEATHER at 02:33: clear\, 13°C\, 23% chance of rain\nLIGHT: after da
+ rk (sunrise 07:19\, sunset 18:35)\nTIDES: Mid-cycle between springs and n
+ eaps.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction (TIC
+ ON-4). Weather\, swell and sea temperature: Open-Meteo. Not for navigatio
+ n.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 05:33 (9.9 m) · surf 02:33 
- · 0.3 m bumpy · Les Brayes
+ · 0.4 m bumpy · Les Brayes
 TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261008T110800Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261008T110739Z
-DTEND:20261008T113739Z
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261008T110740Z
+DTEND:20261008T113740Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 12:07 (2.3 m)
 DESCRIPTION:LOW TIDE 12:07\, 2.3 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261008T165300Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261008T165252Z
-DTEND:20261008T172252Z
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261008T165251Z
+DTEND:20261008T172251Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▲ High tide 17:52 (10.5 m) · surf 14:52 · flat
 DESCRIPTION:HIGH TIDE 17:52\, 10.5 m above chart datum (St Helier)\n\nSUR
- F: 14:52–17:52 on the flooding tide\nSwell: 0.3 m at 6 s from the W\nSu
- rf height (estimate): ankle to knee high\nWind: 14 mph from the NNW\, gus
- ting 30 mph (cross-onshore at the pick)\nConditions: Too small to be wort
- h it\nBest spot in Jersey: Nowhere worthwhile\nAlso considered: Les Braye
- s (cross-onshore)\; St Brelade's Bay (cross-offshore)\nSea temperature: 1
- 8.5°C\n\nSAIL: 14:52–17:52 on the flood or 17:52–20:52 on the ebb\n\
- nWEATHER at 14:52: partly cloudy\, 15°C\, 16% chance of rain\nLIGHT: day
- light (sunrise 07:19\, sunset 18:35)\nTIDES: Mid-cycle between springs an
- d neaps.\n\nUpdated 2 Oct\, 10:31. Tides: St Helier harmonic prediction (
- TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for naviga
- tion.
+ F: 14:52–17:52 on the flooding tide\nSwell: 0.3 m at 5 s from the WNW\n
+ Surf height (estimate): ankle to knee high\nWind: 14 mph from the NNW\, g
+ usting 30 mph (cross-onshore at the pick)\nConditions: Too small to be wo
+ rth it\nBest spot in Jersey: Nowhere worthwhile\nAlso considered: Les Bra
+ yes (cross-onshore)\; St Brelade's Bay (cross-offshore)\nSea temperature:
+  18.6°C\n\nSAIL: 14:52–17:52 on the flood or 17:52–20:52 on the ebb\
+ n\nWEATHER at 14:52: partly cloudy\, 15°C\, 16% chance of rain\nLIGHT: d
+ aylight (sunrise 07:19\, sunset 18:35)\nTIDES: Mid-cycle between springs 
+ and neaps.\n\nUpdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction
+  (TICON-4). Weather\, swell and sea temperature: Open-Meteo. Not for navi
+ gation.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 17:52 (10.5 m) · surf 14:52
@@ -553,43 +522,57 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261008T233100Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
 DTSTART:20261008T233037Z
 DTEND:20261009T000037Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
 SUMMARY:▼ Low tide 00:30 (1.7 m)
 DESCRIPTION:LOW TIDE 00:30\, 1.7 m above chart datum (St Helier)\n\nUpdat
- ed 2 Oct\, 10:31.
+ ed 2 Oct\, 13:36.
 END:VEVENT
 BEGIN:VEVENT
 UID:tideline-sthelier-20261009T051700Z@tideline
-DTSTAMP:20261002T093126Z
-LAST-MODIFIED:20261002T093126Z
-SEQUENCE:497481
-DTSTART:20261009T051705Z
-DTEND:20261009T054705Z
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261009T051704Z
+DTEND:20261009T054704Z
 LOCATION:St Helier\, Jersey
 TRANSP:TRANSPARENT
-SUMMARY:▲ High tide 06:17 (10.5 m) · surf 03:17 · flat
+SUMMARY:▲ High tide 06:17 (10.5 m) · surf 03:17 · 0.4 m choppy · Wat
+ ersplash
 DESCRIPTION:HIGH TIDE 06:17\, 10.5 m above chart datum (St Helier)\n\nSUR
- F: 03:17–06:17 on the flooding tide\nSwell: 0.3 m at 6 s from the WNW\n
+ F: 03:17–06:17 on the flooding tide\nSwell: 0.5 m at 4 s from the WNW\n
  Surf height (estimate): ankle to knee high\nWind: 8 mph from the WNW\, gu
- sting 17 mph (onshore at the pick)\nConditions: Too small to be worth it\
- nBest spot in Jersey: Nowhere worthwhile\nAlso considered: Les Brayes (on
- shore)\; St Brelade's Bay (cross-shore)\nSea temperature: 18.4°C\n\nSAIL
- : 03:17–06:17 on the flood or 06:17–09:17 on the ebb\n\nWEATHER at 03
- :17: overcast\, 14°C\, 4% chance of rain\nLIGHT: after dark (sunrise 07:
- 21\, sunset 18:33)\nTIDES: Mid-cycle between springs and neaps.\n\nUpdate
- d 2 Oct\, 10:31. Tides: St Helier harmonic prediction (TICON-4). Weather\
- , swell and sea temperature: Open-Meteo. Not for navigation.
+ sting 17 mph (onshore at the pick)\nConditions: Choppy and blown out\nBes
+ t spot in Jersey: Watersplash (St Ouen's Bay)\nAlso considered: Les Braye
+ s (onshore)\; St Brelade's Bay (cross-shore)\nSea temperature: 18.5°C\n\
+ nSAIL: 03:17–06:17 on the flood or 06:17–09:17 on the ebb\n\nWEATHER 
+ at 03:17: overcast\, 14°C\, 4% chance of rain\nLIGHT: after dark (sunris
+ e 07:21\, sunset 18:33)\nTIDES: Mid-cycle between springs and neaps.\n\nU
+ pdated 2 Oct\, 13:36. Tides: St Helier harmonic prediction (TICON-4). Wea
+ ther\, swell and sea temperature: Open-Meteo. Not for navigation.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Surf window opens now. High tide 06:17 (10.5 m) · surf 03:17
-  · flat
+  · 0.4 m choppy · Watersplash
 TRIGGER:-PT3H
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tideline-sthelier-20261009T115100Z@tideline
+DTSTAMP:20261002T123602Z
+LAST-MODIFIED:20261002T123602Z
+SEQUENCE:497484
+DTSTART:20261009T115033Z
+DTEND:20261009T122033Z
+LOCATION:St Helier\, Jersey
+TRANSP:TRANSPARENT
+SUMMARY:▼ Low tide 12:50 (1.7 m)
+DESCRIPTION:LOW TIDE 12:50\, 1.7 m above chart datum (St Helier)\n\nUpdat
+ ed 2 Oct\, 13:36.
 END:VEVENT
 END:VCALENDAR
