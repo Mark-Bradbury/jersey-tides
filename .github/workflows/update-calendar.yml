@@ -1,8 +1,9 @@
 name: Update tide and surf calendar
 on:
   schedule:
-    - cron: "15 */3 * * *"   # every 3 hours
-  workflow_dispatch:          # lets you run it by hand from the Actions tab
+    - cron: "0 23 * * *"   # 23:00 UTC = midnight in Jersey during summer time (BST)
+    - cron: "0 0 * * *"    # 00:00 UTC = midnight in Jersey during winter time (GMT)
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
 permissions:
   contents: write
 jobs:
@@ -10,15 +11,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Only run once a night, just after midnight Jersey time
+        id: gate
+        run: |
+          HOUR=$(TZ=Europe/Jersey date +%-H)
+          MIDNIGHT=$(TZ=Europe/Jersey date -d 'today 00:00' +%s)
+          LAST=$(git log -1 --format=%ct -- docs/tides.ics || true)
+          if [ "${{ github.event_name }}" = "schedule" ] && { [ "$HOUR" -ge 22 ] || [ "${LAST:-0}" -ge "$MIDNIGHT" ]; }; then
+            echo "Not midnight in Jersey yet, or already updated tonight. Skipping."
+            echo "run=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-node@v4
+        if: steps.gate.outputs.run == 'yes'
         with:
           node-version: 20
-      - run: npm install --no-audit --no-fund
-      - run: npm run build
+      - if: steps.gate.outputs.run == 'yes'
+        run: npm install --no-audit --no-fund
+      - if: steps.gate.outputs.run == 'yes'
+        run: npm run build
       - name: Publish the updated calendar
+        if: steps.gate.outputs.run == 'yes'
         run: |
           git config user.name "tide-bot"
           git config user.email "tide-bot@users.noreply.github.com"
           git add docs/tides.ics
-          git diff --cached --quiet || git commit -m "Update calendar"
+          git diff --cached --quiet || git commit -m "Nightly calendar update"
           git push
